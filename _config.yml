@@ -1,5 +1,5 @@
-markdown: redcarpet
-redcarpet:
+markdown: kramdown
+kramdown:
 #	extensions: [
 #		"autolink",
 #		"fenced_code_blocks",
